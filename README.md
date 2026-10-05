@@ -2,7 +2,7 @@
 
 店舗紹介・サービス・アクセス・電話問い合わせへの導線をまとめた、サロン向けの静的Webページです。
 
-[ポートフォリオ](https://moedaichi0629-ai.github.io/landing-page/)
+[ポートフォリオ](https://moedaichi0629-ai.github.io/)
 
 ## 主な機能
 
